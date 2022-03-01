@@ -2,8 +2,9 @@
 ## T.I.M. “TIME IS MONEY”
 ## Employee Monitoring/Time Management Software
 
-Please view the Microsoft Word Document for full system documentation: https://github.com/scottsmith15/System-Analysis-Design/blob/main/Time%20is%20Money%20-%20System%20Documentation.docx
-Presentation: PRESENTATION3-COMP226.pptx
+Please view the Microsoft Word Document for full system documentation: https://github.com/scottsmith15/System-Analysis-Design/blob/b185f04ca83028fcc2ebcd382bc2761828f2fcde/Time%20is%20Money%20-%20System%20Documentation.docx
+
+Presentation: https://github.com/scottsmith15/System-Analysis-Design/blob/6792f6f9ca6d370c8f7420c42e30ce5b6708b274/PRESENTATION3-COMP226.pptx
 
 # Example User Interface Designs
 ![image](https://user-images.githubusercontent.com/82340486/156217171-18653786-98c0-447d-b129-9b1461abf67a.png)
