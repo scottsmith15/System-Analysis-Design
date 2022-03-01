@@ -3,6 +3,7 @@
 ## Employee Monitoring/Time Management Software
 
 Please view the Microsoft Word Document for full system documentation: https://github.com/scottsmith15/System-Analysis-Design/blob/main/Time%20is%20Money%20-%20System%20Documentation.docx
+Presentation: PRESENTATION3-COMP226.pptx
 
 # Example User Interface Designs
 ![image](https://user-images.githubusercontent.com/82340486/156217171-18653786-98c0-447d-b129-9b1461abf67a.png)
